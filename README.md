@@ -65,6 +65,8 @@ Neural Networks (PyTorch)
 | Gradient Boosting   | ~92%          | ~71%    |
 | XGBoost             | ~91%          | ~71%    |
 | Random Forest       | ~88%          | ~70%    |
+<img width="2776" height="832" alt="image" src="https://github.com/user-attachments/assets/0889b3f6-c871-4e26-b6c4-a2e9aaf5ce3d" />
+
 
 ## Technologies Used
 * Scikit-learn
